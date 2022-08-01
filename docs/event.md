@@ -1,5 +1,7 @@
 # Events Module
 
+welcome to event module and its helping users
+
 In general, this module is for helping users (service providers and consumers) to plan and execute events pertaining to their business activities.
 
 In particular, for the chama application, it is for helping its group members manage their events in a systematic way.
